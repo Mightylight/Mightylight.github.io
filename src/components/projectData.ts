@@ -37,7 +37,7 @@ const projects = [
         smallDescription: "A VR escape room game",
         bigDescription: loadTextFile("scarletDescription.txt"),
         coverImage: '/assets/ScarletEscape_Logo.png',
-        images:['/assets/scarletEscape1.gif','/assets/scarletEscape2.gif','/assets/scarletEscape3.gif"'],
+        images:['/assets/scarletEscape1.gif','/assets/scarletEscape2.gif','/assets/scarletEscape3.gif'],
         link: '/projects/scarlet_escape',
         websites: [],
         enabled: true,
