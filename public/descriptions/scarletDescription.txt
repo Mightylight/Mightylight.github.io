@@ -1,0 +1,8 @@
+﻿This 2 player game is made for friends who think they can communicate. You are trapped in a haunted house and your job is to escape,
+before that clock hits midnight. Along with your ghostly friend, solve riddles, complete puzzles and explore this haunted place,
+all while using your ghostly friend trapped inside a totem.
+Are you up for the challenge? Or will you be trapped in this haunted house forever?
+
+There are 2 aspects to this game. 1 person will be playing in VR and is able to interact with the world around them,
+while the second player, will use their phone and it's features (such as gyroscope and touch input) to see around the room in a way the player in VR can't.
+The player on their phone is not able to move on its own and needs help from the VR player to look throughout the room.
