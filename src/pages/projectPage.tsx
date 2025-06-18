@@ -14,7 +14,7 @@ function ProjectPage(props: ProjectPageProps) {
     }, [props.project.bigDescription]);
 
     return (
-        <div className="project-page bg-warning">
+        <div className="project-page">
             <Image style={{maxWidth:"30rem", objectFit:"contain"}} src={props.project.coverImage} alt={props.project.title} className="project-image" />
             <h1>{props.project.title}</h1>
             <p className="text-muted">
